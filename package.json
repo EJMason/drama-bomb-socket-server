@@ -1,0 +1,14 @@
+{
+  "name": "drama-bomb-socket-server",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/EJMason/drama-bomb-socket-server.git",
+  "author": "EJMason <eliotjunior@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "socketcluster": "^5.13.1"
+  }
+}
